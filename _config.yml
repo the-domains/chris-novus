@@ -1,0 +1,28 @@
+name: Chris Novus
+favicon: null
+layout_spectrum: 0.9163235193118453
+typography_spectrum: 0.15898926951922476
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.32121801073662937
+  lightness: 0.5652474088128656
+  saturation: 0.840352182276547
+  rhythmicContrast: 0.8236380831804127
+purpose: []

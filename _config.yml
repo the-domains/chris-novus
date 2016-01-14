@@ -1,4 +1,7 @@
-layout_spectrum: 0.9163235193118453
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -27,14 +30,11 @@ color:
     - '#5A8828'
     - '#034A66'
   rhythmicContrast: 0.8236380831804127
-typography_spectrum: 0.1589892695192248
+typography_spectrum: 0.4280344
 cta:
   bucket: null
   version: null
   domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+layout_spectrum: 1
 favicon: null
 name: Chris Novus

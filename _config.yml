@@ -14,6 +14,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+title: Novus 3219
 cta:
   domain: null
   bucket: null

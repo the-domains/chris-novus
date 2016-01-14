@@ -1,28 +1,40 @@
-name: Chris Novus
-favicon: null
 layout_spectrum: 0.9163235193118453
-typography_spectrum: 0.15898926951922476
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.32121801073662937
-  lightness: 0.5652474088128656
-  saturation: 0.840352182276547
-  rhythmicContrast: 0.8236380831804127
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.840352182276547
+  lightness: 0.5652474088128656
+  brandStrength: 1
+  brandColors:
+    - '#0D0C0E'
+    - '#D0D8E0'
+    - '#88919B'
+    - '#5A8828'
+    - '#034A66'
+  rhythmicContrast: 0.8236380831804127
+typography_spectrum: 0.1589892695192248
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: Chris Novus
